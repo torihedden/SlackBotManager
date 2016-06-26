@@ -1,0 +1,50 @@
+{
+	"users": [{
+		"userID": 1,
+		"name": "Seven of Nine",
+		"status": true
+	}, {
+		"userID": 2,
+		"name": "Hermione",
+		"status": false
+	}, {
+		"userID": 3,
+		"name": "Leia",
+		"status": false
+	}, {
+		"userID": 4,
+		"name": "Buffy",
+		"status": true
+	},
+  {
+    "userID": 5,
+    "name": "Ada",
+    "status": true
+  },
+  {
+		"userID": 6,
+		"name": "Veronica",
+		"status": false
+	},
+  {
+    "userID": 7,
+    "name": "Willow",
+    "status": false
+  },
+  {
+    "userID": 8,
+    "name": "Kaylee",
+    "status": true
+  },
+  {
+    "userID": 9,
+    "name": "Scully",
+    "status": true
+  },
+  {
+    "userID": 10,
+    "name": "Kendra",
+    "status": true
+  }
+]
+}

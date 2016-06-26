@@ -1,0 +1,52 @@
+{"SlackBotData":
+
+[
+{"bots":
+  [
+    {
+      "status":{
+        "state":  "running",
+        "error":  null,
+        "thread": 12
+      },
+      "bot":{
+        "token":   "xoxb-...",
+        "icon":    ":pig:",
+        "name":    "Leeloo",
+        "id":      "slack:T03JYURGY:U1KSHU685",
+        "user_id": "U1KSHU685"
+      }
+    },
+    {
+      "status":{
+        "state":  "stopped",
+        "error":  null,
+        "thread": 12
+      },
+      "bot":{
+        "token":   "asdf-...",
+        "icon":    ":smile:",
+        "name":    "Deanna",
+        "id":      "slack:T03JYURGY:U1KSHU685",
+        "user_id": "U1KSHU685"
+      }
+    },
+    {
+      "status":{
+        "state":  "crashed",
+        "error":  null,
+        "thread": 12
+      },
+      "bot":{
+        "token":   "wxyz-...",
+        "icon":    ":eggplant:",
+        "name":    "Zoe Washburne",
+        "id":      "slack:T03JYURGY:U1KSHU685",
+        "user_id": "U1KSHU685"
+      }
+    }
+  ]
+},
+{"plugins": "plugins here"}
+]
+}
