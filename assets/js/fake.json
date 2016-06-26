@@ -1,0 +1,26 @@
+[{
+	"id": 0,
+	"isActive": true,
+	"plugins": ["Echo", "Charlie", "India"]
+}, {
+	"id": 1,
+	"isActive": false,
+	"plugins": ["Echo", "Tango", "Whiskey"]
+}, {
+	"id": 2,
+	"isActive": true,
+	"plugins": ["Foxtrot", "Zebra", "Romeo", "Tango"]
+}, {
+	"id": 3,
+	"isActive": false,
+	"plugins": ["Delta", "Echo", "Victor", "X-Ray"]
+}, {
+	"id": 4,
+	"isActive": true,
+	"plugins": ["India", "Whiskey", "Bravo"]
+}, {
+	"id": 5,
+	"isActive": true,
+	"plugins": ["Lima", "Whiskey", "Hotel"]
+}
+]
