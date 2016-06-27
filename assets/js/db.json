@@ -47,6 +47,40 @@
     }
   ]
 },
-{"plugins": "plugins here"}
+{"plugins": [
+    {
+        "name":"help",
+        "examples":{
+            "help":"Show this help message"
+        }
+    },
+    {
+        "name":"echo",
+        "examples":{
+            "echo hello world":"Repeat `hello world` back"
+        }
+    },
+    {
+        "name":"score",
+        "examples":{
+            "score leeloo":"Show the score for leeloo",
+            "leeloo--":"Be a monster",
+            "leeloo++":"Give leeloo 1 point"
+        }
+    },
+    {
+        "name":"panic",
+        "examples":{
+
+        }
+    },
+    {
+        "name":"divide",
+        "examples":{
+            "1 / 0":"Force a crash",
+            "10 / 2":"Do some math"
+        }
+    }
+]}
 ]
 }
